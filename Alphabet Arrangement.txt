@@ -1,0 +1,10 @@
+data = ["apple", "banana", "cherry", "date", "fig"]
+
+# Sort the data in alphabetical order
+sorted_data = sorted(data)
+
+# Print the sorted data in alphabetical order
+for item in sorted_data:
+    print(item)
+
+# Click on this link to learn more: <a href="https://theilt20.com/">International League T20 2024</a>
